@@ -1,2 +1,3 @@
 src/boombita/data/
 .DS_Store
+*.[Ll]og/
